@@ -1,0 +1,26 @@
+Context: Minecraft speedrunner Dream has been accused of cheating in his speedruns due to his unusually high success rate
+in gathering "Ender Pearl" items through bartering with Piglin NPCs and in gathering "Blaze Rod" items through killing Blaze enemies
+
+Dream has a success rate of 42/262 ender pearls per barter
+Probability of a successful ender pearl barter is 20/423
+
+Dream has a success rate of 211/305 blaze rods per kill
+Probability of a successful blaze rod drop is 1/2
+
+This only takes into account the probabilities programmed for the game events to happen
+External factors are not considered in this simulation
+
+Expected probability of being successful in both events is 20/846 (approx. 2.364%)
+Dream's success rate is 8862/79,910 (approx. 11.090%)
+this does not take into account that both events may not have necessarily been attempted in a single speedrun
+
+In Dream's response paper, he included data from 5 other livestreams which are separate from the 6 livestreams initially investigated
+Dream recorded 12/356 successful Ender Pearl trades and 73/134 successful Blaze Rod drops
+This allows for a combined success rate of 876/47,704 (aprox. 1.836%, which is close to the expected rate)
+
+If we combine the data from all 11 livestreams discussed
+Dream's data totals to 54/618 successful Ender Pearl trades and 284/439 successful blaze rod drops
+Combined, Dream's success rate is 15,336/271,302
+
+Learned how to code a line graph from https://www.w3resource.com/graphics/matplotlib/basic/matplotlib-basic-exercise-5.php
+Data from https://mcspeedrun.com/dream.pdf and https://drive.google.com/file/d/1yfLURFdDhMfrvI2cFMdYM8f_M_IRoAlM/view
